@@ -22,6 +22,8 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'tpope/vim-fugitive'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'preservim/nerdtree'
+Plugin 'linrongbin16/fzfx.nvim'
+Plugin 'tomasiser/vim-code-dark'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
